@@ -1,4 +1,4 @@
-# Curso Básico de Python
+# Curso Básico de Python 🐍
 Este curso básico de Python te hará entender su lenguaje y como usarlo.!!
 
 ## Introducción a Python y Configuración del Entorno
